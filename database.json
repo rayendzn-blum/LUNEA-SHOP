@@ -1,0 +1,60 @@
+{
+  "orders": [
+    {
+      "id": "LUN-2026-9042",
+      "date": "21/07/2026 14:32",
+      "fullName": "Yasmine Benali",
+      "phone": "0550 12 34 56",
+      "wilaya": "16 - Alger",
+      "address": "Hydra, Rue des Pins N° 12",
+      "offer": "La Parfaite",
+      "size": "36/38",
+      "price": 6500,
+      "discountApplied": false,
+      "status": "En attente"
+    },
+    {
+      "id": "LUN-2026-8819",
+      "date": "21/07/2026 11:15",
+      "fullName": "Amel Mansouri",
+      "phone": "0770 98 76 54",
+      "wilaya": "31 - Oran",
+      "address": "Akid Lotfi, N° 45",
+      "offer": "Le Double Parfait",
+      "size": "40/42",
+      "price": 10900,
+      "discountApplied": true,
+      "status": "Confirmée"
+    }
+  ],
+  "activities": [
+    {
+      "id": 1784660798778,
+      "text": "Visite de la page Maillot robe MONACO (Nouvelle session).",
+      "time": "20:06"
+    },
+    {
+      "id": 1784659854908,
+      "text": "Visite de la page Maillot robe MONACO (Nouvelle session).",
+      "time": "19:50"
+    },
+    {
+      "id": 1784659854885,
+      "text": "Visite de la page Maillot robe MONACO (Nouvelle session).",
+      "time": "19:50"
+    },
+    {
+      "id": 1,
+      "text": "Visite de la page Maillot robe MONACO.",
+      "time": "Il y a 5 min"
+    },
+    {
+      "id": 2,
+      "text": "Offre \"La Parfaite\" sélectionnée.",
+      "time": "Il y a 3 min"
+    }
+  ],
+  "settings": {
+    "webhookUrl": ""
+  }
+}
